@@ -1,1 +1,0 @@
-cmd_/home/debian/301sensor_project/lkm/sensor_module.ko := ld -r -EL -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/debian/301sensor_project/lkm/sensor_module.ko /home/debian/301sensor_project/lkm/sensor_module.o /home/debian/301sensor_project/lkm/sensor_module.mod.o;  true

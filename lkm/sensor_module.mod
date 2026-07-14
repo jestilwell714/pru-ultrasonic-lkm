@@ -1,2 +1,0 @@
-/home/debian/301sensor_project/lkm/sensor_module.o
-
